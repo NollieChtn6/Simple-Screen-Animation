@@ -2,7 +2,7 @@
 
 ## Introduction
 
-![Screenshot displaying the project: a screen showcasing a website and a coding interface](/result/simple-screen-snimation_result.png)
+![Screenshot displaying the project: a screen showcasing a website and a coding interface](/result/simple-screen-animation_result.png)
 
 This simple project focuses on HTML and CSS to display a small screen showcasing a website on one side and a coding interface on the other. I wanted to enhance the homepage of my portfolio by integrating a React component to make it look more dynamic. I drew inspiration from [Ricardo dos Santos' project in Code Pen](https://codepen.io/whhhhhhaaaaaaat) to create this component.
 
@@ -14,6 +14,6 @@ In terms of CSS, I had fun playing with the colour and size of the elements to m
 
 ## Installation
 
-1) Clone the repository.
-2) Launch a live server on `index.html`.
-3) Enjoy :smile:.
+1. Clone the repository.
+2. Launch a live server on `index.html`.
+3. Enjoy :smile:.
